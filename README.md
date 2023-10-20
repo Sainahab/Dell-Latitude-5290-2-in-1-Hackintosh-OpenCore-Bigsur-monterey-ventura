@@ -1,5 +1,5 @@
 # Dell Latitude 5290 2 in 1 Hackintosh OpenCore Bigsur monterey ventura
- step by step guide to hackintosh your dell latitude 5290 2in 1
+ step by step guide to hackintosh your dell latitude 5290 2 in 1  (Please Read the FULL guide before starting)
 
 ## Specifics
 
@@ -26,7 +26,8 @@
 
 ## Step by step how to :
 
-# 1st Step is to boot Big sur
+# 1st Step is to boot Big sur (Please Read the FULL guide before starting)
+ - YOU Must install Big sur first before upgrading to monterey/ventura 
  - Follow dortania guide to make bootable usbstick for BIG SUR 11.7 macos (not montery/not ventura)  : https://dortania.github.io/OpenCore-Install-Guide/installer-guide/
 # 2nd Step copy Big Sur EFI to usb
  - copy Efi folder (inside 1 - EFI BIG sur) to usb stick root.
