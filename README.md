@@ -35,9 +35,11 @@
 <img src="https://dortania.github.io/OpenCore-Install-Guide/assets/img/com-efi-done.a6fb730e.png" alt="">
 
 # 3nd Step config.plist config
- - download ProperTree and GenSMBIOS
+ - download ProperTree and GenSMBIOS.
+
             -   https://github.com/corpnewt/ProperTree
             -   https://github.com/corpnewt/GenSMBIOS
+            
  - Next, let's open ProperTree and edit our config.plist:
 
     * ProperTree.command
@@ -88,6 +90,8 @@
 
 # 5nd Step : OpenCore Post-Install
      - follow this guide to Booting without USB and Fixing iServices
+     
+     https://dortania.github.io/OpenCore-Post-Install/#how-to-follow-this-guide
 
 # 5nd Step update to Monterey or Ventura
     
