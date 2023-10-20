@@ -1,5 +1,5 @@
 # Dell Latitude 5290 2 in 1 Hackintosh OpenCore Bigsur monterey ventura
- step by step guide to hackintosh your dell latitude 5290 2 in 1  (Please Read the FULL guide before starting)
+ Step by step guide to hackintosh your dell latitude 5290 2 in 1  (Please Read the FULL guide before starting)
 
 ## Specifics
 
@@ -23,6 +23,24 @@
 ## BIOS Setup
 
 - Load Optimized Defaults
+
+## Hackintosh Status:
+
+Touch enabled OS PICKER ✅ 
+WIFI/BT : ✅ 
+GPU : ✅ 
+Touchscreen : ✅ working as a magic mouse 2 with gestures 
+Dell pen : ✅ working natively as a mouse 
+Keyboard : ✅ 
+Trackpad : ✅ 
+Sound and mic : ✅ 
+HDMI output : ✅ 
+Usb type A : ✅ 
+Usb type C : ✅❌
+Camera : ❌ 
+Card reader : ❌ ( i don't care about it to fix)
+4g modem : ❌ ( this too ) 
+SMBIOS : Macbook15.2
 
 ## Step by step how to :
 
